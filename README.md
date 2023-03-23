@@ -1,9 +1,9 @@
-#Hi, I'm Mikhail
-###A passionate developer from Israel
+# Hi, I'm Mikhail!
+### I'm from Israel.
 
-I’m currently learning python and javasctipt with all that fancy framworks
+I’m currently learning python, javasctipt with all that fancy framworks.
 
-###Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/mikhail-chekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhail-chekin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chekinm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chekinm" height="30" width="40" /></a>
