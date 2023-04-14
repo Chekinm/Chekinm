@@ -1,7 +1,7 @@
 # Hi, I'm Mikhail!
 ### I'm from Israel.
 
-I’m currently learning python, javasctipt with all that fancy framworks.
+I’m currently learning python, javasctipt and all that fancy frameworks.
 
 ### Connect with me:
 <p align="left">
