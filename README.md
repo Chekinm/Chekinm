@@ -1,11 +1,8 @@
-# Hi, I'm Mikhail!
-### I'm from Israel.
-
-I’m currently learning python, javasctipt and all that fancy frameworks.
+# Hi there, I'm Mikhail!
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mikhail-chekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhail-chekin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mikhail-chekin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="mikhail-chekin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chekinm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chekinm" height="30" width="40" /></a>
 </p>
 
